@@ -2,6 +2,8 @@
 Crowdcollected moscow police open data
 
 ### Описание
+**upperdistrict** –	название вышестоящего района/города
+
 **name** –	название района
 
 **population** –	население
